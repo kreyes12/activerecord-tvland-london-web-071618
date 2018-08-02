@@ -1,1 +1,1 @@
-class CreateFirstActorsTable 
+class CreateFirstActorsTable > ActiveRecord::Migration
